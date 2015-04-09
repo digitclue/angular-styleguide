@@ -1,4 +1,4 @@
 # Summary
 
-* [README.md](readme.md)
+* [README](README.md)
 
